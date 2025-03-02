@@ -1,0 +1,25 @@
+{
+  "name": "root",
+  "version": "0.0.1",
+  "private": true,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+[github-repository-url].git"
+  },
+  "workspaces": [
+    "demo",
+    "packages/*"
+  ],
+  "type": "module",
+  "scripts": {
+    "format": "prettier --write .",
+    "check": "astro check"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.2",
+    "prettier-plugin-astro": "^0.14.1",
+    "@astrojs/check": "^0.9.4",
+    "typescript": "^5.8.2"
+  }
+}
