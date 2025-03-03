@@ -1,7 +1,7 @@
 {
-  "name": "[LIBRARY_NAME]",
+  "name": "[PACKAGE_NAME]",
   "version": "0.0.1",
-  "description": "[LIBRARY_DESCRIPTION]",
+  "description": "[PACKAGE_DESCRIPTION]",
   "keywords": [
     "astro",
     "astro-component",

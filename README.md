@@ -1,7 +1,7 @@
-# Atro Component Library Template
+# Atro Package Template
 
-- Change `[LIBRARY_NAME]` with the name of your library
-- Change `[LIBRARY_DESCRIPTION]` with your library description
+- Change `[PACKAGE_NAME]` with the name of your package
+- Change `[PACKAGE_DESCRIPTION]` with your package description
 - Change `[GITHUB_REPOSITORY_URL]` with the url to your github repo
 - Change `[KEYWORDS]` as applicable
 - Change `[AUTHOR_NAME]`

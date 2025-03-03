@@ -1,4 +1,4 @@
-# [LIBRARY_NAME] Example
+# [PACKAGE_NAME] Example
 
 ## 🧞 Commands
 
