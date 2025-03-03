@@ -1,26 +1,26 @@
 {
-  "name": "[PACKAGE_NAME]",
+  "name": "PACKAGE_NAME",
   "version": "0.0.1",
-  "description": "[PACKAGE_DESCRIPTION]",
+  "description": "PACKAGE_DESCRIPTION",
   "keywords": [
     "astro",
     "astro-component",
     "withastro",
     "astro-integration",
-    "[KEYWORDS]"
+    "KEYWORDS"
   ],
   "author": {
-    "name": "[AUTHOR_NAME]",
-    "url": "[AUTHOR_WEBSITE_URL]"
+    "name": "AUTHOR_NAME",
+    "url": "AUTHOR_WEBSITE_URL"
   },
-  "homepage": "[GITHUB_REPOSITORY_URL]",
+  "homepage": "GITHUB_REPOSITORY_URL",
   "repository": {
     "type": "git",
-    "url": "git+[GITHUB_REPOSITORY_URL].git",
+    "url": "git+GITHUB_REPOSITORY_URL.git",
     "directory": "package"
   },
   "bugs": {
-    "url": "[GITHUB_REPOSITORY_URL]/issues"
+    "url": "GITHUB_REPOSITORY_URL/issues"
   },
   "license": "MIT",
   "type": "module",
