@@ -1,10 +1,19 @@
+## Features
+
+This template uses npm workspaces. There are three workspaces.
+
+- **package** This is where you write your package code. This is what you publish.
+- **demo** An Astro project to test your package locally.
+- **docs** A Astro Starlight template for the package documentation.
+
+
 ### Setup Guide Start
 
 - Change `PACKAGE_NAME` with the name of your package
 - Change `PACKAGE_DESCRIPTION` with your package description
 - Change `GITHUB_REPOSITORY_URL` with the url to your github repo
 - Change `KEYWORDS` as applicable
-- Change `DOCUMENTATION_WEBSITE_URL`
+- Change `DOCUMENTATION_WEBSITE_URL` with the url of the package's documentation
 - Change `AUTHOR_NAME`
 - Change `AUTHOR_WEBSITE_URL`
 - Update `README.md` file as you wish
