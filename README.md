@@ -6,7 +6,6 @@ This template uses npm workspaces. There are three workspaces.
 - **demo** An Astro project to test your package locally.
 - **docs** A Astro Starlight template for the package documentation.
 
-
 ### Setup Guide Start
 
 - Change `PACKAGE_NAME` with the name of your package
@@ -20,10 +19,9 @@ This template uses npm workspaces. There are three workspaces.
 
 ### Setup Guide End
 
-
 # PACKAGE_NAME
 
-Awesome package description
+PACKAGE_DESCRIPTION
 
 ### Docs
 

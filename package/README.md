@@ -1,6 +1,6 @@
 # PACKAGE_NAME
 
-Awesome package description
+PACKAGE_DESCRIPTION
 
 ### Docs
 
