@@ -7,8 +7,7 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'My Awesome Package',
-      description:
-        'Default description',
+      description: 'Default description',
       lastUpdated: true,
       credits: true,
       social: {
@@ -17,9 +16,7 @@ export default defineConfig({
       sidebar: [
         {
           label: 'Start Here',
-          items: [
-            { label: 'Introduction', slug: 'introduction' },
-          ],
+          items: [{ label: 'Introduction', slug: 'introduction' }],
         },
       ],
     }),

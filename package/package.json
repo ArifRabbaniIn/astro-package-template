@@ -40,8 +40,8 @@
     "publish": "npm publish --tag latest"
   },
   "devDependencies": {
-      "@astrojs/check": "^0.9.4",
-      "typescript": "^5.8.2"
+    "@astrojs/check": "^0.9.4",
+    "typescript": "^5.8.2"
   },
   "peerDependencies": {
     "astro": "^5.4.0"
