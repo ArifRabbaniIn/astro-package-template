@@ -24,9 +24,10 @@
   },
   "license": "MIT",
   "type": "module",
-  "main": "./src/index.ts",
+  "main": "./index.ts",
   "files": [
-    "src"
+    "src",
+    "index.ts"
   ],
   "publishConfig": {
     "access": "public"
