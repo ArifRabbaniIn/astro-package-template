@@ -4,7 +4,7 @@ This template uses npm workspaces. There are three workspaces.
 
 - **package** This is where you write your package code. This is what you publish.
 - **demo** An Astro project to test your package locally.
-- **docs** A Astro Starlight template for the package documentation.
+- **docs** A Astro Starlight template for the package documentation. It includes typedoc integration for generating type information.
 
 ### Setup Guide Start
 
