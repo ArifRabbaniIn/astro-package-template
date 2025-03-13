@@ -1,6 +1,6 @@
-# PACKAGE_NAME
+# My Awesome Package
 
-PACKAGE_DESCRIPTION
+Package description
 
 ### Docs
 

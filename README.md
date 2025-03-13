@@ -8,7 +8,6 @@ This template uses npm workspaces. There are three workspaces.
 
 ### Setup Guide Start
 
-- Change `PACKAGE_NAME` with the name of your package
 - Change `NPM_PACKAGE_NAME` with the name of your package
 - Change `PACKAGE_DESCRIPTION` with your package description
 - Change `GITHUB_REPOSITORY_URL` with the url to your github repo
@@ -20,9 +19,9 @@ This template uses npm workspaces. There are three workspaces.
 
 ### Setup Guide End
 
-# PACKAGE_NAME
+# My Awesome Package
 
-PACKAGE_DESCRIPTION
+Package description
 
 ### Docs
 
