@@ -21,7 +21,7 @@ export default defineConfig({
         }),
       ],
       title: 'My Awesome Package',
-      description: 'Default description',
+      description: 'Package description',
       lastUpdated: true,
       credits: true,
       social: {
