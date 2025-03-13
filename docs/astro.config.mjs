@@ -8,7 +8,6 @@ export default defineConfig({
   integrations: [
     starlight({
       plugins: [
-        // TODO: Add this only if you are generating typedoc
         starlightTypeDoc({
           entryPoints: ['../package/src/type.ts'],
           tsconfig: '../package/tsconfig.json',
@@ -33,8 +32,6 @@ export default defineConfig({
           label: 'Start Here',
           items: [{ label: 'Introduction', slug: 'introduction' }],
         },
-
-        // TODO: Add this only if you are generating typedoc
         typeDocSidebarGroup,
       ],
     }),
